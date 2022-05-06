@@ -13,4 +13,19 @@ namespace Movement
 	extern "C" DWORD64 dwSpeed;
 }
 
+namespace FallDamage
+{
+	extern "C" void hkFallDamage();
+	extern "C" LPVOID lpFallDamageNext;
+	extern "C" LPVOID lpOrgFallDamage;
+	extern "C" bool bFallDamageEnable;
+}
+
+namespace SuperJump
+{
+	extern "C" void hkSuperJump();
+	extern "C" LPVOID lpSuperJumpNext;
+	extern "C" DWORD dwJumpHeight;
+}
+
 #endif

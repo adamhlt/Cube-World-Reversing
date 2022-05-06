@@ -25,8 +25,9 @@ void Drawing::Draw()
 		ImGui::Begin(lpWindowName, &bDraw, WindowFlags);
 		{
 			ImGui::Text("LocalPlayer : %p", lpLocalPlayer);
-			ImGui::Text("Code Cave Location : %p", (LPVOID)&Movement::hkMovement);
 			ImGui::SliderInt("Speed Multiplier", (int*)&Movement::dwSpeed, 1, 10);
+			ImGui::Checkbox("No Fall Damage", &FallDamage::bFallDamageEnable);
+			ImGui::SliderFloat("Super Jump", (float*)&SuperJump::dwJumpHeight, 10.0f, 100.0f);
 		}
 		ImGui::End();
 	}

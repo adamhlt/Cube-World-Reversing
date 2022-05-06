@@ -98,5 +98,11 @@
     <MASM Include="Movement.asm">
       <Filter>ASM</Filter>
     </MASM>
+    <MASM Include="FallDamage.asm">
+      <Filter>ASM</Filter>
+    </MASM>
+    <MASM Include="SuperJump.asm">
+      <Filter>ASM</Filter>
+    </MASM>
   </ItemGroup>
 </Project>

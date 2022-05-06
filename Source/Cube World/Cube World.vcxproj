@@ -175,7 +175,9 @@
     <ClInclude Include="UI.h" />
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="FallDamage.asm" />
     <MASM Include="Movement.asm" />
+    <MASM Include="SuperJump.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
