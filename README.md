@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/adamhlt/Cube-World-Reversing/main/Ressources/banner.png)
+![Banner](https://user-images.githubusercontent.com/48086737/170071412-d6b59a23-9cd8-4eed-a562-6041165ae222.png)
 
 # Cube World Reversing
 
