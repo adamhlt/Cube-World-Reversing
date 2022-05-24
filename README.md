@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/48086737/170071412-d6b59a23-9cd8-4eed-a562-6041165ae222.png)
+![Banner](https://user-images.githubusercontent.com/48086737/170087278-da09b7c6-0971-48f9-bfc9-558164330de7.png)
 
 # Cube World Reversing
 
