@@ -34,7 +34,8 @@ This is a **x64 dll**, you can't compile this project in x86, the game made in x
 1. Open the solution file (.sln).
 2. Build the project in Release (x64)
 
-⚠️ If you have crash when injecting in the game try to look if addresses are still up to date.
+> **Warning** <br>
+> If you have crash when injecting in the game try to look if addresses are still up to date.
 
 ## 🧪 Demonstration :
 
@@ -42,5 +43,7 @@ This is a **x64 dll**, you can't compile this project in x86, the game made in x
 
 - Retrieve LocalPlayer
 - Movement Speed Multiplier
+- No Fall Damage
+- Super Jump
 
 https://user-images.githubusercontent.com/48086737/166975554-8c54f7b5-4eec-4398-87f2-8009d1ad8cdb.mp4
