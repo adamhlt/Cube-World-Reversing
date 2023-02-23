@@ -27,7 +27,8 @@ I update this repository the same time I write new posts on my blog. You can eas
 
 ## :rocket: Getting Started :
 
-This is a **x64 dll**, you can't compile this project in x86, the game made in x64 and the project use x64 assembly.
+> **Note** <br>
+> This is a **x64 dll**, you can't compile this project in x86, the game made in x64 and the project use x64 assembly.
 
 ### Visual Studio :
 
