@@ -1,8 +1,20 @@
-![Banner](https://user-images.githubusercontent.com/48086737/170087278-da09b7c6-0971-48f9-bfc9-558164330de7.png)
-
-# Cube World Reversing
-
- [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/C%2B%2B) [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x64](https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/X64)
+```
+   ______      __          _       __           __    __   ____                           _            
+  / ____/_  __/ /_  ___   | |     / /___  _____/ /___/ /  / __ \___ _   _____  __________(_)___  ____ _
+ / /   / / / / __ \/ _ \  | | /| / / __ \/ ___/ / __  /  / /_/ / _ \ | / / _ \/ ___/ ___/ / __ \/ __ `/
+/ /___/ /_/ / /_/ /  __/  | |/ |/ / /_/ / /  / / /_/ /  / _, _/  __/ |/ /  __/ /  (__  ) / / / / /_/ / 
+\____/\__,_/_.___/\___/   |__/|__/\____/_/  /_/\__,_/  /_/ |_|\___/|___/\___/_/  /____/_/_/ /_/\__, /  
+                                                                                              /____/     
+                                                                                                      
+                                                                                                      
+                                  Cube World Reversing & Cheat (x64)                                  
+                                  Include IDA file and unpacked game                           
+```
+<p align="center">
+    <img src="https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor" alt="C++">
+    <img src="https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor" alt="Windows">
+    <img src="https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor" alt="x64">
+</p>
 
 ## :open_book: Project Overview :
 
